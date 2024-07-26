@@ -1,6 +1,6 @@
 # Personal additions
 .idea
-
+static/
 
 # Django #
 *.log
