@@ -12,3 +12,6 @@ Execute os comandos abaixo em um terminal (bash/prompt) *dentro da pasta raiz de
 
     # Desativar ambiente virtual
     deactivate
+    
+    #Ativar o Pré-commit, para padronização e organização do projeto
+    pre-commit install
