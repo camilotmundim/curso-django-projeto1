@@ -1,6 +1,7 @@
 # Personal additions
 .idea
 static/
+envs.py
 
 # Django #
 *.log
