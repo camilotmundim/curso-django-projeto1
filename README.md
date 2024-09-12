@@ -8,7 +8,7 @@ Execute os comandos abaixo em um terminal (bash/prompt) *dentro da pasta raiz de
     (Windows: venv\Scripts\activate)
 
     # instalar as dependencias...
-    python -m pip install -r requirements.txt
+    python -m pip install -r requirements-dev.txt
 
     # Desativar ambiente virtual
     deactivate
