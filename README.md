@@ -1,4 +1,4 @@
-Execute os comandos abaixo em um terminal (bash/prompt) *dentro da pasta raiz deste projeto*.
+Execute os comandos abaixo em um terminal *(bash/prompt)* dentro da pasta raiz deste projeto.
 
     # criar um ambiente virtual do Python 
     python -m venv venv
