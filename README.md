@@ -15,3 +15,8 @@ Execute os comandos abaixo em um terminal *(bash/prompt)* dentro da pasta raiz d
     
     #Ativar o Pré-commit, para padronização e organização do projeto
     pre-commit install
+
+
+Analisar cobertura de testes:
+    
+    coverage run -m pytest && coverage html
